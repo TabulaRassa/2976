@@ -1,0 +1,123 @@
+11262375;23;17.64;1;1;1
+66131373;20;24.78;1;1;2
+376707316;25;25.86;1;1;3
+378601464;22;24.96;1;1;4
+11264869;20;27.78;1;1;5
+370606590;18;28.68;1;1;6
+11264867;1;160.02;1;1;7
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <ErrorInfo>
+    <ErrorCode>0</ErrorCode>
+  </ErrorInfo>
+  <ReceiptData />
+  <ReceiptItems>
+    <ReceiptItems>
+      <PackID>11264867</PackID>
+      <ReceiptItemID>7</ReceiptItemID>
+      <Quantity>1</Quantity>
+      <QuantityType>1</QuantityType>
+      <PartialType>0</PartialType>
+      <Price>16002</Price>
+      <MinPrice>27600</MinPrice>
+      <Sum>16002</Sum>
+      <ItemDiscount>0</ItemDiscount>
+      <ReceiptDiscount>0</ReceiptDiscount>
+      <MinBonusPrice>100</MinBonusPrice>
+      <MinBonusChargePrice>100</MinBonusChargePrice>
+      <OfferID>0</OfferID>
+    </ReceiptItems>
+    <ReceiptItems>
+      <PackID>370606590</PackID>
+      <ReceiptItemID>6</ReceiptItemID>
+      <Quantity>18</Quantity>
+      <QuantityType>1</QuantityType>
+      <PartialType>0</PartialType>
+      <Price>2868</Price>
+      <MinPrice>2400</MinPrice>
+      <Sum>51624</Sum>
+      <ItemDiscount>0</ItemDiscount>
+      <ReceiptDiscount>0</ReceiptDiscount>
+      <MinBonusPrice>100</MinBonusPrice>
+      <MinBonusChargePrice>100</MinBonusChargePrice>
+      <OfferID>0</OfferID>
+    </ReceiptItems>
+    <ReceiptItems>
+      <PackID>11264869</PackID>
+      <ReceiptItemID>5</ReceiptItemID>
+      <Quantity>20</Quantity>
+      <QuantityType>1</QuantityType>
+      <PartialType>0</PartialType>
+      <Price>2778</Price>
+      <MinPrice>2250</MinPrice>
+      <Sum>55560</Sum>
+      <ItemDiscount>0</ItemDiscount>
+      <ReceiptDiscount>0</ReceiptDiscount>
+      <MinBonusPrice>100</MinBonusPrice>
+      <MinBonusChargePrice>100</MinBonusChargePrice>
+      <OfferID>0</OfferID>
+    </ReceiptItems>
+    <ReceiptItems>
+      <PackID>378601464</PackID>
+      <ReceiptItemID>4</ReceiptItemID>
+      <Quantity>22</Quantity>
+      <QuantityType>1</QuantityType>
+      <PartialType>0</PartialType>
+      <Price>2496</Price>
+      <MinPrice>1950</MinPrice>
+      <Sum>54912</Sum>
+      <ItemDiscount>0</ItemDiscount>
+      <ReceiptDiscount>0</ReceiptDiscount>
+      <MinBonusPrice>100</MinBonusPrice>
+      <MinBonusChargePrice>100</MinBonusChargePrice>
+      <OfferID>0</OfferID>
+    </ReceiptItems>
+    <ReceiptItems>
+      <PackID>376707316</PackID>
+      <ReceiptItemID>3</ReceiptItemID>
+      <Quantity>25</Quantity>
+      <QuantityType>1</QuantityType>
+      <PartialType>0</PartialType>
+      <Price>2586</Price>
+      <MinPrice>2250</MinPrice>
+      <Sum>64650</Sum>
+      <ItemDiscount>0</ItemDiscount>
+      <ReceiptDiscount>0</ReceiptDiscount>
+      <MinBonusPrice>100</MinBonusPrice>
+      <MinBonusChargePrice>100</MinBonusChargePrice>
+      <OfferID>0</OfferID>
+    </ReceiptItems>
+    <ReceiptItems>
+      <PackID>66131373</PackID>
+      <ReceiptItemID>2</ReceiptItemID>
+      <Quantity>20</Quantity>
+      <QuantityType>1</QuantityType>
+      <PartialType>0</PartialType>
+      <Price>2478</Price>
+      <MinPrice>2100</MinPrice>
+      <Sum>49560</Sum>
+      <ItemDiscount>0</ItemDiscount>
+      <ReceiptDiscount>0</ReceiptDiscount>
+      <MinBonusPrice>100</MinBonusPrice>
+      <MinBonusChargePrice>100</MinBonusChargePrice>
+      <OfferID>0</OfferID>
+    </ReceiptItems>
+    <ReceiptItems>
+      <PackID>11262375</PackID>
+      <ReceiptItemID>1</ReceiptItemID>
+      <Quantity>23</Quantity>
+      <QuantityType>1</QuantityType>
+      <PartialType>0</PartialType>
+      <Price>1764</Price>
+      <MinPrice>1650</MinPrice>
+      <Sum>40572</Sum>
+      <ItemDiscount>0</ItemDiscount>
+      <ReceiptDiscount>0</ReceiptDiscount>
+      <MinBonusPrice>100</MinBonusPrice>
+      <MinBonusChargePrice>100</MinBonusChargePrice>
+      <OfferID>0</OfferID>
+    </ReceiptItems>
+  </ReceiptItems>
+</Root>

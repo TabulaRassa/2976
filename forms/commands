@@ -1,0 +1,94 @@
+http://127.0.0.1:8090/21138A37-6E3F-462B-9A62-126BA27646F0/OpenSaleReceiptWithLoad?CallID=638961452299636243&SystemID=1&SAreaID=1&OperationID=ea2cd356-559a-4955-9416-565c66624ec6&SlotID=1&CashDeskCompatable=0&IsRestaurantReceipt=1
+http://127.0.0.1:8090/21138A37-6E3F-462B-9A62-126BA27646F0/SavePostponedReceipt?CallID=638961452552286756&SystemID=1&SAreaID=1&OperationID=3562a745-bda1-4edc-bc94-0bcdcaf924c2&ReceiptID=EA6B89D1-2AD5-4100-94CB-0902A5062D54
+
+
+http://127.0.0.1:8090/21138A37-6E3F-462B-9A62-126BA27646F0/OpenSaleReceiptWithLoad?
+        CallID=638925065957117737&
+               6389717715868414365
+               6389718855268552989
+        SystemID=1&
+        SAreaID=1&
+        OperationID=1f272839-2ed2-4c7c-b8fe-70b97515f51a&                       -- GUID -- 
+        SlotID=1&
+        CashDeskCompatable=0&
+        IsRestaurantReceipt=1
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <ErrorInfo>
+    <ErrorCode>0</ErrorCode>
+  </ErrorInfo>
+  <CommandResults>
+    <ReceiptID>E37C3122-0F74-4D57-B340-8973609D68D8</ReceiptID>
+  </CommandResults>
+</Root>
+
+
+http://127.0.0.1:8090/21138A37-6E3F-462B-9A62-126BA27646F0/SavePostponedReceipt?CallID=638938972290359570&SystemID=1&SAreaID=1&OperationID=e12d0b3f-7f18-41c7-bac4-5931c84ced95&ReceiptID=B29D2FFF-BBC3-4285-A4EF-6680BDBA6E61
+
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <ErrorInfo>
+    <ErrorCode>0</ErrorCode>
+  </ErrorInfo>
+  <CommandResults>
+    <PostPonedReceiptID>00010001058C002F</PostPonedReceiptID>
+  </CommandResults>
+  <CommandResults>
+    <SessID>1420</SessID>
+  </CommandResults>
+  <CommandResults>
+    <SrecNum>47</SrecNum>
+  </CommandResults>
+</Root>
+
+
+http://127.0.0.1:8090/21138A37-6E3F-462B-9A62-126BA27646F0/OpenSaleReceiptWithLoad?CallID=638938976015813712&SystemID=1&SAreaID=1&OperationID=372eeca3-3bc6-4e9e-a917-809bada94448&SlotID=1&CashDeskCompatable=0&IsRestaurantReceipt=1
+
+<?xml version="1.0" encoding="utf-16"?>
+<Tables>
+  <ReceiptItems>
+    <PackID>370606590</PackID>
+    <ReceiptItemID>1</ReceiptItemID>
+    <Quantity>4</Quantity>
+    <QuantityType>1</QuantityType>
+    <PartialType>1</PartialType>
+    <Price>3168</Price>
+  </ReceiptItems>
+  <ReceiptItems>
+    <PackID>11264867</PackID>
+    <ReceiptItemID>2</ReceiptItemID>
+    <Quantity>5</Quantity>
+    <QuantityType>1</QuantityType>
+    <PartialType>1</PartialType>
+    <Price>17292</Price>
+  </ReceiptItems>
+  <ReceiptItems>
+    <PackID>11261890</PackID>
+    <ReceiptItemID>3</ReceiptItemID>
+    <Quantity>30000</Quantity>
+    <QuantityType>0</QuantityType>
+    <PartialType>0</PartialType>
+    <Price>3960</Price>
+  </ReceiptItems>
+  <ReceiptItems>
+    <PackID>397280486</PackID>
+    <ReceiptItemID>4</ReceiptItemID>
+    <Quantity>1</Quantity>
+    <QuantityType>1</QuantityType>
+    <PartialType>1</PartialType>
+    <Price>368</Price>
+  </ReceiptItems>
+</Tables>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <ErrorInfo>
+    <ErrorCode>0</ErrorCode>
+  </ErrorInfo>
+  <CommandResults>
+    <ReceiptID>58A92816-7F41-459A-87CC-1F943717A87C</ReceiptID>
+  </CommandResults>
+</Root>
